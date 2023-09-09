@@ -1,4 +1,4 @@
-# Technical Documentation for User-Manager Project
+# User-Manager Project
 
 ## Overview
 
