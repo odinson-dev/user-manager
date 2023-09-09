@@ -1,0 +1,10 @@
+server:
+  port: 9010
+
+app:
+  security:
+    jwt:
+      keystore-location: keystore.jks
+      keystore-password: password
+      key-alias: jwtsigning
+      private-key-passphrase: password
